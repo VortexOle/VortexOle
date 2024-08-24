@@ -10,8 +10,7 @@ Coding Time: 
 [![wakatime](https://wakatime.com/badge/user/ad9483ec-d166-4ab2-8dbb-73c8a46c3785.svg)](https://wakatime.com/@ad9483ec-d166-4ab2-8dbb-73c8a46c3785)
 
 ## 🏆I'm currently working on
-- A python Bot
-- A Hypixel Skyblock Mod
+- Nothing
 
 ## 🔔 I'm currently learning
 - C++
